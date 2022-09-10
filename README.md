@@ -4,10 +4,10 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Projects
 
-| Name                         | Description                                                            | Tech/tools        |
+| Project                         | Description                                                         | Tech/tools        |
 | ---------------------------- | ---------------------------------------------------------------------- | ----------------- |
-| **Dice-Game-1.0**            | A two player dice game where a dice is rolled at random and the player |
-|                              | with the most wins after 2 rounds wins the game.                       | Ruby                                 
+| **Dice-Game-1.0**            | A two player dice game where a dice is rolled at random and the player,| Ruby
+                                 with the most wins after 2 rounds wins the game.                                                        
 | ** **                        |                                                                        |                   |
 
 ## Work Experience
