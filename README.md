@@ -1,13 +1,14 @@
-## Your Name
+## Imisi Aina
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| Name                         | Description                                                            | Tech/tools        |
+| ---------------------------- | ---------------------------------------------------------------------- | ----------------- |
+| **Dice-Game-1.0**            | A two player dice game where a dice is rolled at random and the player | Ruby
+                                 with the most wins after 2 rounds wins the game.                       |                   |
+| ** **                        | A webapp to do y.                                                      | Ruby              |
 
 ## Work Experience
 
