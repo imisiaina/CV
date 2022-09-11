@@ -22,9 +22,9 @@ For a full list of projects, view my [Github](https://github.com/imisiaina?tab=r
 _IT Tech and Videographer_
 
 - Website Design: Designing and updating content on the client website, targeted at members of a church to show information on services during the week and special events occurring during the year.
-Live Streaming: Setting up and operating live streaming over social media (Facebook, YouTube), making services readily available to members unable to attend in person. 
-Projection: Running software to project media to screens around the building, including lyrics simultaneously to the audience and choir, scripture for the speaker and audience and other types of media.
-**Prioritisation and multi-tasking**: Managing multiple, concurrent processes and where necessary, prioritising strategically to ensure the service runs smoothly.
+- Live Streaming: Setting up and operating live streaming over social media (Facebook, YouTube), making services readily available to members unable to attend in person. 
+- Projection: Running software to project media to screens around the building, including lyrics simultaneously to the audience and choir, scripture for the speaker and audience and other types of media.
+- **Prioritisation and multi-tasking**: Managing multiple, concurrent processes and where necessary, prioritising strategically to ensure the service runs smoothly.
 
 
 **ASDA** (April 2020 - September 2021)  
@@ -90,8 +90,8 @@ Excellent IT skills with advanced Microsoft Office knowledge – BCS certified L
 
 ## Hobbies
 
-Gaming: I enjoy playing games and is a major reason for my passion in IT and technology
-Music: I enjoy listening to music and have also taken part in a music concert as part of a group. 
-Drums: I had taken some lessons in playing the drums and enjoy teaching myself to become a better drummer
-Guitar: I began to teach myself to play the guitar through Youtube and books and thoroughly enjoy playing. 
+- Gaming: I enjoy playing games and is a major reason for my passion in IT and technology
+- Music: I enjoy listening to music and have also taken part in a music concert as part of a group. 
+- Drums: I had taken some lessons in playing the drums and enjoy teaching myself to become a better drummer
+- Guitar: I began to teach myself to play the guitar through Youtube and books and thoroughly enjoy playing. 
 
