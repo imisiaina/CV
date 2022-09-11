@@ -1,5 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=1000&color=F70000&center=true&vCenter=true&width=800&height=100&lines=Hello%2C+I'm+Imisi+Aina!;Welcome+to+my+GitHub!+)](https://git.io/typing-svg)
 
+[Projects]() | [Skills] | [Education] | [Hobbies_&_Interests] 
+
+I am a conscientious, ambitious and self-starter Developer, looking to improve and gain new skills 
+
+Biomedical Science graduate with a keen interest in programming, with a track record of getting tasks/projects done on time and to the highest standards.
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
 
 ## Projects
