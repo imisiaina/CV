@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=1000&color=F70000&center=true&vCenter=true&width=800&height=100&lines=Hello%2C+I'm+Imisi+Aina!;Welcome+to+my+GitHub!+)](https://git.io/typing-svg)
 
-[Projects]() | [Work Experience]() | [Skills]() | [Education]() | [Hobbies & Interests]() 
+[Projects](#projects) | [Work Experience](#work-experience) | [Skills](#skills) | [Education](#education) | [Hobbies & Interests](#hobbies) 
 
 I am a conscientious, ambitious and self-starter Developer, looking to improve and gain new skills 
 
@@ -9,9 +9,11 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Projects
 
+For a full list of projects, view my [Github](https://github.com/imisiaina?tab=repositories)
+
 | Project                      | Description                                                                                                             | Tech/tools        |
 | ---------------------------- | --------------------------------------------------------------------------------------------------------------------    | ----------------- |
-| **Dice-Game-1.0**            | A two player dice game where a dice is rolled at random and the player, with the most wins after 2 rounds wins the game.| Ruby
+| [Dice Game](https://github.com/imisiaina/Dice-Game-1.0)| A two player dice game where a dice is rolled at random and the player, with the most wins after 2 rounds wins the game.| Ruby
 |                              |                                                                                                                         |                   |                 
 
 ## Work Experience
