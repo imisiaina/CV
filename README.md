@@ -6,6 +6,8 @@ I am a conscientious, ambitious and aspiring **Web-Developer**. Although a Biome
 
 Currently, I am looking for a suitable entry level software developer position with a fast paced and ambitious company that can offer development training, project-based learning and has on-going programs designed to nature, develop and promote individuals to their maximum potential.
 
+**Languages**: Ruby, HTML, CSS
+
 
 ## Projects
 
@@ -67,9 +69,11 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
 - e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
 - you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
+- OOP
+- TDD
 - Agile/XP
-- Ruby, Rails, JavaScript
+- Ruby, Rails, 
+- JavaScript
 - RSpec, Jasmine
 
 #### Coventry University (September 2016 - January 2020)
