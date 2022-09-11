@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=1000&color=F70000&center=true&vCenter=true&width=800&height=100&lines=Hello%2C+I'm+Imisi+Aina!;Welcome+to+my+GitHub!+)](https://git.io/typing-svg)
 
-[Projects](#projects) | [Work Experience](#work-experience) | [Skills](#skills) | [Education](#education) | [Hobbies & Interests](#hobbies) 
+[Projects](#projects) - [Work Experience](#work-experience) - [Skills](#skills) - [Education](#education) - [Hobbies & Interests](#hobbies) 
 
-I am a conscientious, ambitious and self-starter Developer, looking to improve and gain new skills 
+I am a conscientious, ambitious and aspiring **Web-Developer**. Although a Biomedical Science graduate I developed a keen interest in programming and was especially fascinated with the life-cycle of websites and idea of being a able to bring a website to life from start to finish. 
 
-Biomedical Science graduate with a keen interest in programming, with a track record of getting tasks/projects done on time and to the highest standards.
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+Currently, I am looking for a suitable entry level software developer position with a fast paced and ambitious company that can offer development training, project-based learning and has on-going programs designed to nature, develop and promote individuals to their maximum potential.
+
 
 ## Projects
 
@@ -18,15 +18,18 @@ For a full list of projects, view my [Github](https://github.com/imisiaina?tab=r
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**ICHO Media** (Jul 2019 - Present)  
+_IT Tech and Videographer_
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+- Website Design: Designing and updating content on the client website, targeted at members of a church to show information on services during the week and special events occurring during the year.
+Live Streaming: Setting up and operating live streaming over social media (Facebook, YouTube), making services readily available to members unable to attend in person. 
+Projection: Running software to project media to screens around the building, including lyrics simultaneously to the audience and choir, scripture for the speaker and audience and other types of media.
+**Prioritisation and multi-tasking**: Managing multiple, concurrent processes and where necessary, prioritising strategically to ensure the service runs smoothly.
 
-**Company Name** (start-date to end-date)  
-_Your job title_
 
-- Any experience relevent to software development
+**ASDA** (April 2020 - September 2021)  
+_Online Shop Picker_
+
 
 ## Skills
 
@@ -60,7 +63,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (September - Present)
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
 - e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
 - you might also mention aspects some other skills/knowledge listed below: 
@@ -69,16 +72,26 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Coventry University (September 2016 - January 2020)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Biomedical Science
+- Completed 21 modules including Human Physiology, Cell and Molecular Biology, Clinical Biochemistry, Immunology and a Microbiology final year project: The effect of environmental stresses on the growth of E. coli and its antibiotic susceptibility to antibiotics. The purpose was to understand the growth of E. coli, if this growth was affected by heat and pH; and whether this affected how susceptible E. coli was to different antibiotics. 
 
-#### Any other qualifications
+Excellent IT skills with advanced Microsoft Office knowledge – BCS certified Level 3 Spreadsheet Software (ECDL)
 
-That in some arguable way make you a better software developer or well-rounded person
+#### Beth's Grammar School for Boys
+
+- A levels in Biology, Psychology and Economics
+
+#### St Columbas Catholic Boys School
+
+- 12 A* - C GCSE's including English Language, Maths, Statistics and Triple Science
+- Duke of Edinburgh Award (Bronze & Silver) – worked as part of a team to follow instructions and navigate through a set path. I was given the role of mapping the groups’ locations and figuring out where next to go.
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+Gaming: I enjoy playing games and is a major reason for my passion in IT and technology
+Music: I enjoy listening to music and have also taken part in a music concert as part of a group. 
+Drums: I had taken some lessons in playing the drums and enjoy teaching myself to become a better drummer
+Guitar: I began to teach myself to play the guitar through Youtube and books and thoroughly enjoy playing. 
+
