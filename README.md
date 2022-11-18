@@ -12,7 +12,7 @@ I am tenacious and determined to follow a course of action - to achieve objectiv
 
 Currently, I am looking for a suitable entry level software developer position with a fast paced and ambitious company that can offer development training, project-based learning and has on-going programs designed to nature, develop and promote individuals to their maximum potential.
 
-**Languages**: Ruby, HTML, CSS
+**Languages**: Ruby (Sinatra, Rspec) | Javascript (Jest, Node.js, React) | HTML | CSS | Cypress | SQL (PostgreSQL) | MongoDB 
 
 
 ## Projects
