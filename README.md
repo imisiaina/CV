@@ -1,8 +1,14 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=1000&color=F70000&center=true&vCenter=true&width=800&height=100&lines=Hello%2C+I'm+Imisi+Aina!;Welcome+to+my+GitHub!+)](https://git.io/typing-svg)
 
+<div align="center">
+
 [Projects](#projects) - [Work Experience](#work-experience) - [Skills](#skills) - [Education](#education) - [Hobbies & Interests](#hobbies) 
 
+</div>
+
 I am a conscientious, ambitious and aspiring **Web-Developer**. Although a Biomedical Science graduate I developed a keen interest in programming and was especially fascinated with the life-cycle of websites and idea of being a able to bring a website to life from start to finish. 
+
+I am tenacious and determined to follow a course of action - to achieve objectives. I am a clear thinker with an inner need to be objective and analytical.
 
 Currently, I am looking for a suitable entry level software developer position with a fast paced and ambitious company that can offer development training, project-based learning and has on-going programs designed to nature, develop and promote individuals to their maximum potential.
 
