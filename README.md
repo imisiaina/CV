@@ -21,10 +21,13 @@ Currently, I am looking for a suitable entry level software developer position w
 
 | Project                      | Description                                                                                                             | Tech/tools        |
 | ---------------------------- | --------------------------------------------------------------------------------------------------------------------    | ----------------- |
+| [Simple Weight Converter](https://github.com/imisiaina/Simple-Weight-Converter)| A simple application that can convert between Kilograms(Kg) and Pounds(Lbs)| Python 
+| [Simple Car Game](https://github.com/imisiaina/Simple-car-game)| A small car game that responds to user input| Python 
+| [Guess the number](https://github.com/imisiaina/Guess-the-number) | A small guessing game where you try to guess the random generated number| Python
 | [Dice Game](https://github.com/imisiaina/Dice-Game-1.0)| A two player dice game where a dice is rolled at random and the player, with the most wins after 2 rounds wins the game.| Ruby
 | [Rat Race](https://github.com/Ollie-HB/rat-race)| A two player snakes and ladders type game| Javascript, React, CSS                             |   
-| [Simple Weight Converter](https://github.com/imisiaina/Simple-Weight-Converter)| A simple application that can convert between Kilograms(Kg) and Pounds(Lbs)| Python                 
-| [Simple Car Game](https://github.com/imisiaina/Simple-car-game)| A small car game that responds to user input| Python                 
+                
+                
 
 For a full list of projects, view my [Github](https://github.com/imisiaina?tab=repositories)
 
@@ -75,16 +78,14 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (September - Present)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP
-- TDD
+#### Makers Academy (September 2022 - Present)
+- Started a course on web-development through Makers in which I learnt various tools needed to gain entry into the Tech sector through directed learning and group projects using various methodologies and frameworks including:
+- Object-Oriented-Programming (OOP)
+- Test Driven Development (TDD)
 - Agile/XP
-- Ruby, Rails, 
+- Ruby, Rails 
 - JavaScript
-- RSpec, Jasmine
+- RSpec, Jest
 
 #### Coventry University (September 2016 - January 2020)
 
@@ -96,16 +97,12 @@ Excellent IT skills with advanced Microsoft Office knowledge – BCS certified L
 #### Beth's Grammar School for Boys
 
 - A levels in Biology, Psychology and Economics
-
-#### St Columbas Catholic Boys School
-
-- 12 A* - C GCSE's including English Language, Maths, Statistics and Triple Science
 - Duke of Edinburgh Award (Bronze & Silver) – worked as part of a team to follow instructions and navigate through a set path. I was given the role of mapping the groups’ locations and figuring out where next to go.
 
 ## Hobbies
 
 - Gaming: I enjoy playing games and is a major reason for my passion in IT and technology
 - Music: I enjoy listening to music and have also taken part in a music concert as part of a group. 
-- Drums: I had taken some lessons in playing the drums and enjoy teaching myself to become a better drummer
-- Guitar: I began to teach myself to play the guitar through Youtube and books and thoroughly enjoy playing. 
+- Drums: I had taken some lessons in playing the drums at a young age but since I have not played for a few years I have had to relearn and continue to self teach to improve
+- Guitar: I began to teach myself to play the guitar through Youtube and books and hope to be able to play well enough to play all sorts of songs
 
