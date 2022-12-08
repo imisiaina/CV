@@ -17,13 +17,15 @@ Currently, I am looking for a suitable entry level software developer position w
 
 ## Projects
 
-For a full list of projects, view my [Github](https://github.com/imisiaina?tab=repositories)
+
 
 | Project                      | Description                                                                                                             | Tech/tools        |
 | ---------------------------- | --------------------------------------------------------------------------------------------------------------------    | ----------------- |
 | [Dice Game](https://github.com/imisiaina/Dice-Game-1.0)| A two player dice game where a dice is rolled at random and the player, with the most wins after 2 rounds wins the game.| Ruby
 | [Rat Race](https://github.com/Ollie-HB/rat-race)| A two player snakes and ladders type game| Javascript, React, CSS                             |   
 |                   |                 
+
+For a full list of projects, view my [Github](https://github.com/imisiaina?tab=repositories)
 
 ## Work Experience
 
