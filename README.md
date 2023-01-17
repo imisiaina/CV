@@ -38,6 +38,21 @@ Currently, I am looking for a suitable entry level software developer position w
 
 For a full list of projects, view my [Github](https://github.com/imisiaina?tab=repositories)
 
+## Skills
+
+**Teamwork** 
+- As part of the tech team for concerts I am responsible for projection and camera mixing, which involves communication across teams of people. Good communication and teamwork allows me to work well in a cross functional team all working on different things in order to come together to deliver exceptional software.
+- As part of my Duke of Edinburgh Award (Bronze & Silver) – worked as part of a team to follow instructions and navigate through a set path. I was given the role of mapping the groups’ locations and figuring out where next to go.
+
+**Quick to adapt** 
+- During one of the projects for Makers, I was given a codebase that had been started, in a tech stack I had little knowledge on. This demonstrated the ability to learn and adapt quickly and was able to take on new technologies and learn new practices rapidly and efficiently, resulting in a minimum viable product that I was able to showcase. 
+
+**Analytical Thinker and Problem Solver** 
+- Was able to solve issues in the codebase for my final project which helped the team and ensured we met our deadline.
+
+**Attention to detail** 
+- From video editing and videography, I have developed a keen eye for finer details. This is shown in my coding, where I can see how the whole code fits together aswell as finding bugs during debugging.
+
 ## Work Experience
 
 **ICHO Media** (Jul 2019 - Present)  
