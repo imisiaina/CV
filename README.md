@@ -67,6 +67,12 @@ _IT Tech and Videographer_
 **ASDA** (April 2020 - September 2021)  
 _Online Shop Picker_
 
+- Managing online order requests and pulling items from shelves based on quantity, size, colour and quality.
+- To ensure all orders are accurate and ready for delivery.
+- To ensure the pick rate targets are met every shift.
+- To maintain a high level of health and safety standards
+- Operate scanner technology to ensure orders are properly picked and inventory is managed accurately.
+
 
 ## Education
 
