@@ -70,7 +70,7 @@ _Online Shop Picker_
 
 ## Education
 
-#### Makers Academy (September 2022 - Present)
+#### Makers Academy (September 2022 - December 2022)
 - Started a course on web-development through Makers in which I learnt various tools needed to gain entry into the Tech sector through directed learning and group projects using various methodologies and frameworks including:
 - Object-Oriented-Programming (OOP)
 - Test Driven Development (TDD)
