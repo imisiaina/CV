@@ -12,7 +12,7 @@ I am tenacious and determined to follow a course of action - to achieve objectiv
 
 Currently, I am looking for a suitable entry level software developer position with a fast paced and ambitious company that can offer development training, project-based learning and has on-going programs designed to nature, develop and promote individuals to their maximum potential.
 
-## Tech Stack  
+## Tech Stack 💻
 - Ruby (Sinatra, Rspec) 
 - Javascript (Jest, Node.js, React) 
 - HTML, CSS 
@@ -22,7 +22,7 @@ Currently, I am looking for a suitable entry level software developer position w
 - Heroku
 
 
-## Projects
+## Projects 👨‍💻
 
 
 
@@ -38,7 +38,7 @@ Currently, I am looking for a suitable entry level software developer position w
 
 For a full list of projects, view my [Github](https://github.com/imisiaina?tab=repositories)
 
-## Skills
+## Skills 🤓
 
 **Teamwork** 
 - As part of the tech team for concerts I am responsible for projection and camera mixing, which involves communication across teams of people. Good communication and teamwork allows me to work well in a cross functional team all working on different things in order to come together to deliver exceptional software.
@@ -53,7 +53,7 @@ For a full list of projects, view my [Github](https://github.com/imisiaina?tab=r
 **Attention to detail** 
 - From video editing and videography, I have developed a keen eye for finer details. This is shown in my coding, where I can see how the whole code fits together aswell as finding bugs during debugging.
 
-## Work Experience
+## Work Experience 👔
 
 **ICHO Media** (Jul 2019 - Present)  
 _IT Tech and Videographer_
@@ -74,7 +74,7 @@ _Online Shop Picker_
 - Operate scanner technology to ensure orders are properly picked and inventory is managed accurately.
 
 
-## Education
+## Education 📚
 
 #### Makers Academy (September 2022 - December 2022)
 - Started a course on web-development through Makers in which I learnt various tools needed to gain entry into the Tech sector through directed learning and group projects using various methodologies and frameworks including:
@@ -99,8 +99,8 @@ Excellent IT skills with advanced Microsoft Office knowledge – BCS certified L
 
 ## Hobbies
 
-- Gaming: I enjoy playing games and is a major reason for my passion in IT and technology
-- Music: I enjoy listening to music and have also taken part in a music concert as part of a group. 
-- Drums: I had taken some lessons in playing the drums at a young age but since I have not played for a few years I have had to relearn and continue to self teach to improve
-- Guitar: I began to teach myself to play the guitar through Youtube and books and hope to be able to play well enough to play all sorts of songs
+- Gaming 🎮: I enjoy playing games and is a major reason for my passion in IT and technology
+- Music 🎶: I enjoy listening to music and have also taken part in a music concert as part of a group. 
+- Drums 🥁: I had taken some lessons in playing the drums at a young age but since I have not played for a few years I have had to relearn and continue to self teach to improve
+- Guitar 🎸: I began to teach myself to play the guitar through Youtube and books and hope to be able to play well enough to play all sorts of songs
 
