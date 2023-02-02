@@ -18,7 +18,7 @@ Currently, I am looking for a suitable entry level software developer position w
 - HTML, CSS 
 - Cypress 
 - SQL (PostgreSQL) 
-- MongoDB (Mongoose)
+- MongoDB (Mongoose) https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white
 - Heroku
 
 
